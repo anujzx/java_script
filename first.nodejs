@@ -1,0 +1,56 @@
+var resume=
+{
+personal_info:
+{
+"name": "ANUJ YADAV",
+"sex":"Male",
+"dob":"15/09/1995",
+"city":"Kanpur",
+"religion":"hindu",
+"nationality":"Indian",
+"state":"UttarPradesh",
+"email":"anujyadav9515@gmail.com",
+"phone":"9592037022",
+},
+qualification:
+{
+Graduation:{
+"university":"Lovely professional University",
+"percentage":"77%",
+"stream":"ECE",
+},
+Secondary:
+{
+"college":"CV Raman Inter College ",
+"board":"U.P Board",
+"percentage":"84%",
+Subjects:
+{
+"math":"89",
+"physics":"85",
+"chemistry":"84",
+"hindi":"75",
+"physical education":"88",
+"english":"75",
+},
+},
+HighSchool:
+{
+"college":"CV Raman Inter College ",
+"board":"U.P Board",
+"percentage":"80%",
+Subjects:
+{
+"math":"81",
+"physics":"85",
+"chemistry":"84",
+"hindi":"76",
+"physical education":"88",
+"english":"75",
+"drawing":"88",
+},
+},
+},
+}
+console.log(resume);
+
