@@ -51,6 +51,19 @@ Subjects:
 },
 },
 },
+projects:
+[ "Smart green house monetring system using arduino in which i used multiple sensor temperature ,humedity,soil moisture ,ldr it take readings from enviornment and controlled output automatically",
+" full working website of online bus reservation using html css and javascript in this all the data of pasenger and bus information stored in database(oracle) and user get automatically seat_no and Pnr_no "],
+hobbies:["mimicry","travelling","adventure sports"],
+achievments:["got first prize in mimic the voice in my school","awarded by DM of kanpur for scoring good marks in high school"],
+Technical:["embedded and robotics","R programming ","web development"],
+
+language:["English","hindi"],
+
+
+
+
+
 }
 console.log(resume);
 
